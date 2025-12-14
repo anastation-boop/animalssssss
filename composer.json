@@ -1,0 +1,15 @@
+{
+    "name": "user/zoo",
+    "autoload": {
+        "psr-4": {
+            "User\\Zoo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "anastation-boop",
+            "email": "vinogradovanasta750@gmail.com"
+        }
+    ],
+    "require": {}
+}

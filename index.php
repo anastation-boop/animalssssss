@@ -1,8 +1,12 @@
 <?php
 
-require_once 'Dog.php';
-require_once 'Cat.php';
-require_once 'Zoo.php';
+
+
+use App\Cat;
+use App\Dog;
+use App\Zoo;
+
+
 
 echo "=== Демонстрация работы классов ===\n";
 
